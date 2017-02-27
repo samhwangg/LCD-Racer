@@ -1,12 +1,12 @@
 LCD Racer (Switzerland Summer Study Abroad Program 2015)
 ==============
-Programmer Input/Output:
-PORTA - AVR Port A6 & A7
-PORTB - AVR PORT B0-B7
+Programmer Input/Output: <br/>
+PORTA - AVR Port A6 & A7 <br/>
+PORTB - AVR PORT B0-B7 <br/>
 PORTC - Keypad input
 		5 - moves player 2 up
 		8 - moves player 2 down
-		* - player 2 shoots projectile
+		* - player 2 shoots projectile <br/>
 PORTD - Button Input
 		D1 - moves player 1 up
 		D4 - moves player 1 down
